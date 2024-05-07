@@ -1,4 +1,4 @@
-// AULA 3 - Criando struct de produtos
+// AULA 4 - Instalando Postgreesql
 
 package main
 
