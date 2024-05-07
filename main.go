@@ -1,4 +1,4 @@
-// AULA 9 - Página de novos produtos
+// AULA 10 - Buscando dados da página
 
 // go mod init // para iniciar o uso de modulo
 // godoc.org // site de pesquisa de pacotes do GO

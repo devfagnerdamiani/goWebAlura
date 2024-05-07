@@ -44,9 +44,11 @@ func BuscaTodosOsProdutos() []Produto {
 		produtos = append(produtos, p)
 
 	}
-
 	defer db.Close()
-
 	return produtos
+}
+
+func RecebeNovoProduto(nome, descricao string, preco float64, quantidade int) {
+	db := db.ConectaComOBancoDeDados()
 
 }
