@@ -1,4 +1,4 @@
-// AULA 12 - Deletando produtos
+// AULA 13 - Verificando com JS
 
 // go mod init // para iniciar o uso de modulo
 // godoc.org // site de pesquisa de pacotes do GO
