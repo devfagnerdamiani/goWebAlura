@@ -1,4 +1,4 @@
-// AULA 10 - Buscando dados da página
+// AULA 11 - Salvando produto no banco
 
 // go mod init // para iniciar o uso de modulo
 // godoc.org // site de pesquisa de pacotes do GO

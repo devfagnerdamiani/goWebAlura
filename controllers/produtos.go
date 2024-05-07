@@ -40,7 +40,7 @@ func Insert(w http.ResponseWriter, r *http.Request) {
 			log.Println("Erro na conversão na quantidade: ", err)
 		}
 
-		models.CriarNovoProduto(nome, descricao, precoConvertidoParaFloat, quantidadeConvertidaParaInt)
+		models.CriaNovoProduto(nome, descricao, precoConvertidoParaFloat, quantidadeConvertidaParaInt)
 
 	}
 
