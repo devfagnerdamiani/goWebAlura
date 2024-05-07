@@ -1,4 +1,4 @@
-// AULA 8 - Modularizando um pouco mais
+// AULA 9 - Página de novos produtos
 
 // go mod init // para iniciar o uso de modulo
 // godoc.org // site de pesquisa de pacotes do GO
