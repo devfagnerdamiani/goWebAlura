@@ -1,4 +1,4 @@
-// AULA 11 - Salvando produto no banco
+// AULA 12 - Deletando produtos
 
 // go mod init // para iniciar o uso de modulo
 // godoc.org // site de pesquisa de pacotes do GO
