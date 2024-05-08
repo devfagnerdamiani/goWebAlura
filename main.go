@@ -1,4 +1,4 @@
-// AULA 15 - Tela para atualizar produto
+// AULA 16 - Exibindo dados do produto
 
 // go mod init // para iniciar o uso de modulo
 // godoc.org // site de pesquisa de pacotes do GO
