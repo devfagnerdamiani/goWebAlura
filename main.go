@@ -1,4 +1,4 @@
-// AULA 14 - Código duplicado e partials
+// AULA 15 - Tela para atualizar produto
 
 // go mod init // para iniciar o uso de modulo
 // godoc.org // site de pesquisa de pacotes do GO

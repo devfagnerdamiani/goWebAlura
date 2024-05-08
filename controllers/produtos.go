@@ -55,3 +55,14 @@ func Delete(w http.ResponseWriter, r *http.Request) {
 
 	http.Redirect(w, r, "/", 301)
 }
+
+func Edit(w http.ResponseWriter, r *http.Request) {
+
+	temp.ExecuteTemplate(w, "Edit", nil)
+
+	//	idProduto := r.URL.Query().Get("id")
+
+	//	models.EditaProduto(idProduto)
+
+	http.Redirect(w, r, "/", 301)
+}
